@@ -27,7 +27,7 @@
     .INSTALLATION
 
        1.  Download this file and copy it to your Powershell\Modules Directory (Usually C:\Program Files\WindowsPowerShell\Modules)
-       2.  Import this module at the beginning of each script using the command "Import-Module Get-HDMDInfo"
+       2.  Import this module at the beginning of each script using the command "Import-Module DMLite"
 
     .NOTES
 
