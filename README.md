@@ -1,5 +1,5 @@
 # Crestron-EDK-DMLite
-Crestron DMLite Module for Powershell that works similiarly to the Crestron EDK Modules.  Module can be used to perform device mantainance/management tasks at scale.
+Crestron DMLite Module for Powershell that works similiarly to the Crestron EDK Modules.  Module can be used to perform device maintenance /management tasks at scale.
 
 # Get Started/Installation 
 
